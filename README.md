@@ -28,7 +28,7 @@ Acredito que a tecnologia tem o poder de transformar vidas, e quero fazer parte 
 - [Projeto em HTML/CSS](https://github.com/hlucass05/html)
 - [Projeto em Python](https://github.com/hlucass05/python)
 - [Chatbot com IA](https://github.com/hlucass05/IA-CHATBOT)
-- [Banco de Dados](https://github.com/hlucass05/banco-de-dados)
+- [Banco de Dados](https://github.com/hlucass05/DATABASE)
 ---
 
  ### 🛠️ Tecnologias e Ferramentas

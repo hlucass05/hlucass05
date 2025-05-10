@@ -5,7 +5,7 @@
 
 ⚽ Curiosidades: apaixonado por futebol, videogames e música.
 
-Sou um estudante entusiasmado por tecnologia, em busca da minha primeira oportunidade de estágio na área de desenvolvimento ou análise de dados. Tenho um grande interesse em seguir na área de bando de dados (SQL), mas também estou aberto a outras oportunidades na área de tecnologia.
+Sou um estudante entusiasmado por tecnologia, em busca da minha primeira oportunidade de estágio na área de desenvolvimento ou análise de dados. Tenho um grande interesse em seguir na área de banco de dados (SQL), mas também estou aberto a outras oportunidades na área de tecnologia.
 Tenho me dedicado a aprender cada vez mais sobre programação, banco de dados e frameworks modernos, e estou sempre em busca de novos desafios que me permitam crescer como profissional e pessoa.
 Acredito que a tecnologia tem o poder de transformar vidas, e quero fazer parte dessa mudança.
 
